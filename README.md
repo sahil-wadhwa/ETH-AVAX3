@@ -4,16 +4,18 @@ For this project, I have written a smart contract to create my own ERC20 token a
 
 ## Description
 
-Functionality
-Only contract owner should be able to mint tokens
-Any user can transfer tokens
-Any user can burn tokens
+* Functionality<br/>
+  * Only contract owner should be able to mint tokens<br/>
+  * Any user can transfer tokens<br/>
+  * Any user can burn tokens<br/>
 
 ### Executing program
 
-Open Remix IDE and save the file.
-Compile the file and then deploy it.
-Check the deployment for function calls and variable references.
+* Open Remix IDE and save the file.
+* Compile the file and then deploy it.
+* Check the deployment for function calls and variable references.
+* ERC Token is defined with the name MyToken and of type ERC20.
+* mint100, transfer120 and burn120 are the custom token functions.
 
 ## Authors
 
